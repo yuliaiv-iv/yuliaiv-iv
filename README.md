@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<video width="320" height="240">
+  <source src="movie.mp4" type="video/mp4">
+</video>
