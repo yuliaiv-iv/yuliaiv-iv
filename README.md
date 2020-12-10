@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<video width="320" height="240">
-  <source src="Screen Recording 2020-12-10 at 19.47.50.mov" type="video/mp4">
-</video>
+<img src="https://raw.githubusercontent.com/jalbertsr/logo-badge-images/master/img/react_logo.png">
