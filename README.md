@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 <div align="left">
   <img src="images/redux.png">
   <img src="images/sass.png">
+  <img src="images/styled-com.PNG" height="30">
   <img src="images/vue.png">
-  <img src="images/styled-com.PNG" height="40">
   <img src="images/mui.PNG" height="30">
 </div>
 
