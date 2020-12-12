@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 <div align="left">
   <img src="images/mui.png">
   <img src="images/redux.png">
-  <img src="images/react.png">
   <img src="images/sass.png">
   <img src="images/vue.png">
   <img src="images/styled.png">
