@@ -1,5 +1,3 @@
-### Hi there
-
 <!--
 **yuliaiv-iv/yuliaiv-iv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Skills collected:
+<div align="left">
+  <img src="images/html.png">
+  <img src="images/css.png">
+</div>
 
-<img src="images/no_internet.gif" />
-![Watch the video](./images/no_internet.gif)
+<div align="center">
+  <img src="images/readme_main.gif">
+</div>
