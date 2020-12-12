@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <img src="images/redux.png">
   <img src="images/sass.png">
   <img src="images/vue.png">
-  <img src="images/styled-com.PNG">
+  <img src="images/styled-com.PNG" height="30">
 </div>
 
 <div align="center">
