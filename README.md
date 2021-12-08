@@ -23,15 +23,16 @@ Here are some ideas to get you started:
   <img src="images/node.png">
   <img src="images/github.png">
   <img src="images/sass.png">
+  <img src="images/mui.PNG" height="30">
 </div>
 
-### Skills to be collected:
+<!-- ### Skills to be collected:
 <div align="left">
   <img src="images/redux.png">
   <img src="images/styled-com.PNG" height="30">
   <img src="images/vue.png">
   <img src="images/mui.PNG" height="30">
-</div>
+</div> -->
 
 <div align="center">
   <img src="images/readme_main.gif">
