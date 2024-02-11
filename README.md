@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Skills collected:
+<!-- ### Skills collected:
 <div align="left">
   <img src="images/html.png">
   <img src="images/css.png" height="30">
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <img src="images/github.png">
   <img src="images/sass.png">
   <img src="images/mui.PNG" height="30">
-</div>
+</div> -->
 
 <!-- ### Skills to be collected:
 <div align="left">
